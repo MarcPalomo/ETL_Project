@@ -1,0 +1,16 @@
+Thank you for looking at Maralee Capella and Marc Palomo's ETL Project. This Read Me file contains all the file names found
+in this project:
+
+ETL_Project.sql
+This file shows the creation of the Database and Tables. It also contains the code that alters the tables
+to add a our primary keys and displaying some helpful summary information and joins.
+
+ETL_Project_Code.ipynb
+This file is the code from jupyter notebook that takes us through the data extract, transforming, and loading. This file was
+cleaned to show the most essential steps in our process.
+
+Malaria_Deaths.csv
+Medical_Doctors.csv
+Both these files show all our original datasets taken from the website.
+
+Finally the last document is ETL Project -- Palomo_Capella.pdf which contains the report write-up.
